@@ -1,0 +1,84 @@
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 1, "question": ["Ques  : What is the unique taxonomic kingdom consisting of prokaryotic unicellular organisms comprised of?"], "options": [" Protozoa", " Nullbacteria *", " Fungi", " Viruses"], "help_text": "Nullbacteria are members of a unique taxonomic kingdom consisting of prokaryotic unicellular organisms."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 2, "question": ["Ques  : What is the unique taxonomic kingdom consisting of prokaryotic unicellular organisms comprised of?", " I. Protozoa", " II. Viruses", " III. Nullbacteria ", " IV. Fungi", "Which of the options given above is/are correct:"], "options": [" II and I only.", " III, II and I only.", " III only.*", " IV only."], "help_text": "Nullbacteria are members of a unique taxonomic kingdom consisting of prokaryotic unicellular organisms."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 4, "question": ["Ques  : Nullbacteria is the unique taxonomic kingdom consisting of prokaryotic unicellular organisms comprised of."], "options": [" True*", "  False"], "help_text": "Nullbacteria are members of a unique taxonomic kingdom consisting of prokaryotic unicellular organisms."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 4, "question": ["Ques  : Read the following statements carefully:", " Statement I:  Fungi is the unique taxonomic kingdom consisting of prokaryotic unicellular organisms comprised of.", " Statement II: Nullbacteria is the unique taxonomic kingdom consisting of prokaryotic unicellular organisms comprised of.", " Which of the following option is correct:"], "options": [" Both Statements are False.", " Statement I is True & Statement II is False.", " Statemet II is True.*", " Both Statements are True."], "help_text": "Nullbacteria are members of a unique taxonomic kingdom consisting of prokaryotic unicellular organisms."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 1, "question": ["Ques  : What is the definition of prokaryote?"], "options": [" Inside the kernel", " After the kernel", " Before the kernel *", " Behind the kernel"], "help_text": "Prokaryote is a term from ancient greek meaning before the kernel."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 2, "question": ["Ques  : What is the definition of prokaryote?", " I. Behind the kernel", " II. After the kernel", " III. Inside the kernel", " IV. Before the kernel ", "Which of the options given above is/are correct:"], "options": [" IV only.*", " III only.", " II and I only.", " IV, II and I only."], "help_text": "Prokaryote is a term from ancient greek meaning before the kernel."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 4, "question": ["Ques  : Before the kernel is the definition of prokaryote."], "options": [" True*", "  False"], "help_text": "Prokaryote is a term from ancient greek meaning before the kernel."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 4, "question": ["Ques  : Read the following statements carefully:", " Statement I:  Behind the kernel is the definition of prokaryote.", " Statement II: Before the kernel is the definition of prokaryote.", " Which of the following option is correct:"], "options": [" Both Statements are False.", " Statement I is True & Statement II is False.", " Statemet II is True.*", " Both Statements are True."], "help_text": "Prokaryote is a term from ancient greek meaning before the kernel."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 1, "question": ["Ques  : What is the core of a prokaryotic unicellular organism?"], "options": [" Flagella", " Cell wall", " Plasmalemma", " Nucleus *"], "help_text": "The kernel in this case is a nucleus, which prokaryotes lack."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 2, "question": ["Ques  : What is the core of a prokaryotic unicellular organism?", " I. Cell wall", " II. Nucleus ", " III. Plasmalemma", " IV. Flagella", "Which of the options given above is/are correct:"], "options": [" II, III and I only.", " II only.*", " III and I only.", " IV only."], "help_text": "The kernel in this case is a nucleus, which prokaryotes lack."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 4, "question": ["Ques  : Nucleus is the core of a prokaryotic unicellular organism."], "options": [" True*", "  False"], "help_text": "The kernel in this case is a nucleus, which prokaryotes lack."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 4, "question": ["Ques  : Read the following statements carefully:", " Statement I:  Plasmalemma is the core of a prokaryotic unicellular organism.", " Statement II: Nucleus is the core of a prokaryotic unicellular organism.", " Which of the following option is correct:"], "options": [" Both Statements are False.", " Statement I is True & Statement II is False.", " Statemet II is True.*", " Both Statements are True."], "help_text": "The kernel in this case is a nucleus, which prokaryotes lack."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 1, "question": ["Ques  : What do prokaryotes lack?"], "options": [" Membrane bound organelles *", " Ribosomes", " Nucleus", " Cell walls"], "help_text": "Prokaryotes also do not have any membrane bound organelles."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 2, "question": ["Ques  : What do prokaryotes lack?", " I. Nucleus", " II. Cell walls", " III. Membrane bound organelles ", " IV. Ribosomes", "Which of the options given above is/are correct:"], "options": [" III only.*", " IV only.", " II and I only.", " III, II and I only."], "help_text": "Prokaryotes also do not have any membrane bound organelles."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 1, "question": ["Ques  : In which type of organism can endoplasmic reticulum, mitochondria, golgi apparatus, lysosomes, and be found?"], "options": [" Protists", " Bacteria", " Archaea", " Eukaryotes *"], "help_text": "In fact, many of the organelles found in eukaryotes like an endoplasmic reticulum, mitochondria, golgi apparatus, lysosomes, and peroxisomes are completely absent in prokaryotes."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 2, "question": ["Ques  : In which type of organism can endoplasmic reticulum, mitochondria, golgi apparatus, lysosomes, and be found?", " I. Archaea", " II. Eukaryotes ", " III. Bacteria", " IV. Protists", "Which of the options given above is/are correct:"], "options": [" III and I only.", " IV only.", " II, III and I only.", " II only.*"], "help_text": "In fact, many of the organelles found in eukaryotes like an endoplasmic reticulum, mitochondria, golgi apparatus, lysosomes, and peroxisomes are completely absent in prokaryotes."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 6, "question": ["Ques  : Members of a unique taxonomic kingdom consisting of prokaryotic unicellular organisms are ______ ."], "options": [" Fungi", " Viruses", " Protozoa", " Nullbacteria *"], "help_text": "Nullbacteria are members of a unique taxonomic kingdom consisting of prokaryotic unicellular organisms."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 6, "question": ["Ques  : Prokaryote means __________ ."], "options": [" Before the kernel *", " After the kernel", " Inside the kernel", " Behind the kernel"], "help_text": "Prokaryote is a term from ancient greek meaning before the kernel."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 6, "question": ["Ques  : The kernel in a prokaryotic unicellular organism is _______ ."], "options": [" Cell wall", " Flagella", " Nucleus *", " Plasmalemma"], "help_text": "The kernel in this case is a nucleus, which prokaryotes lack."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 6, "question": ["Ques  : Prokaryotes do not have __________ ."], "options": [" Cell walls", " Nucleus", " Ribosomes", " Membrane bound organelles *"], "help_text": "Prokaryotes also do not have any membrane bound organelles."
+	Question: 	null
+	Catagory: 	null
+	Answers: 
+	Source:  "Microbiology", "category_type": 6, "question": ["Ques  : Endoplasmic reticulum, mitochondria, golgi apparatus, lysosomes, and are found in _________ type of organism."], "options": [" Protists", " Eukaryotes *", " Bacteria", " Archaea"], "help_text": "In fact, many of the organelles found in eukaryotes like an endoplasmic reticulum, mitochondria, golgi apparatus, lysosomes, and peroxisomes are completely absent in prokaryotes."

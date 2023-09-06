@@ -1,0 +1,47 @@
+{
+“code”: 200,
+“message”: “Questions generated successfully.”,
+“response”: [
+                {
+                    "topic": "Marine Life", 
+                    "category_type": 2, 
+                    "question": ["Ques  : Which of the following is not a method of coral regeneration? "], 
+                    "options": [" Super corals ", 
+                               " Bleaching *", 
+                               " 3D printing", 
+                               " Polution *"], 
+                    "help_text": "The most common methods of coral reef restoration are genetic modification to create super corals, 3D printing reefs, and COTSBots. Polution causes rising ocean temperatures and coral reef bleaching which destroys reefs"
+                },
+                {
+                    "topic": "World is Adopting Technology in Education", 
+                    "category_type": 2, 
+                    "question": ["Ques  : Which of the following is true about using technology in education? "], 
+                    "options": [" Technology can help to improve the overall quality of education. *", 
+                               " Real-time feedback can be given to both students and teachers. *", 
+                               " It can be very challenging to adopt technology in education.", 
+                               " Technology may be distracting for some students. *"], 
+                    "help_text": "Additionally, technology can be used to provide real-time feedback to both students and teachers ..."
+                },
+                {
+                    "topic": "Basic Counting", 
+                    "category_type": "1", 
+                    "question": ["Ques  : Which of these statements contains three words?"], 
+                    "options": [" this is it *", 
+                               " no", 
+                               "hello world", 
+                               "three three three three"], 
+                    "help_text": "Count the number of physical words in the choices."
+                },      
+                                {
+                    "topic": "Basic Trig", 
+                    "category_type": "6", 
+                    "question": ["Ques  : _____ = (sin(x) / cos(x))"], 
+                    "options": ["1", 
+                               "cot(x)", 
+                               "cos(x)^2", 
+                               "tan(x)*"], 
+                    "help_text": "sin(x) = opposite/hypotenuse, cos(x) = adjacent/hypotenuse, tan(x) = opposite/adjacent..."
+                },           
+           ], 
+“success”: true
+}
